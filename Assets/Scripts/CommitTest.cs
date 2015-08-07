@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-//heheh
+//heheh2
 public class CommitTest : MonoBehaviour {
 
 	// Use this for initialization
